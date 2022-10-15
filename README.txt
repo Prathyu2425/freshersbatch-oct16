@@ -1,1 +1,1 @@
-assignments is the set of tasks that assigned to the workers or students.
+assignments is the set of tasks that assigned to the workers or students or anyone can .
